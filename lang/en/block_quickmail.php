@@ -463,3 +463,22 @@ $string['ms_alternate'] = 'Alternate Emails';
 $string['ms_config'] = 'Configure';
 $string['ms_notifications'] = 'Notifications';
 $string['ms_create_notification'] = 'Create Notification';
+
+// Privacy api
+$string['privacy:metadata:block_quickmail_signatures'] = 'quickmail holding table for signatures';
+$string['privacy:metadata:block_quickmail_signatures:user_id'] = 'User Id of quickmail holding table for signatures';
+$string['privacy:metadata:block_quickmail_messages'] = 'quickmail holding table for signatures';
+$string['privacy:metadata:block_quickmail_messages:user_id'] = 'User Id of quickmail holding table for signatures';
+$string['privacy:metadata:block_quickmail_msg_recips'] = 'quickmail holding table for message recipients';
+$string['privacy:metadata:block_quickmail_msg_recips:user_id'] = 'User Id of quickmail holding table for message recipients';
+$string['privacy:metadata:block_quickmail_alt_emails'] = 'quickmail holding table for alternative emails';
+$string['privacy:metadata:block_quickmail_alt_emails:setup_user_id'] = 'Setup user Id of quickmail holding table for alternative emails';
+$string['privacy:metadata:block_quickmail_alt_emails:user_id'] = 'User Id of quickmail holding table for alternative emails';
+$string['privacy:metadata:block_quickmail_notifs'] = 'quickmail holding table for notifications';
+$string['privacy:metadata:block_quickmail_notifs:user_id'] = 'Setup user Id of quickmail holding table for notifications';
+$string['privacy:metadata:block_quickmail_event_notifs'] = 'quickmail holding table for notifications';
+$string['privacy:metadata:block_quickmail_event_notifs:usermodified'] = 'Setup user Id of quickmail holding table for notifications';
+$string['privacy:metadata:block_quickmail_rem_notifs'] = 'quickmail holding table for rem notifications';
+$string['privacy:metadata:block_quickmail_rem_notifs:usermodified'] = 'Setup user Id of quickmail holding table for rem notifications';
+$string['privacy:metadata:block_quickmail_event_recips'] = 'quickmail holding table for event recipients';
+$string['privacy:metadata:block_quickmail_event_recips:user_id'] = 'Setup user Id of quickmail holding table for event recipients';
